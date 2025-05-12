@@ -1,7 +1,5 @@
 
-# 📊 top_source_U.S_import_2000-2023
-
-**Transforming the current U.S. import 2000–2023 cluttered visual into a compelling narrative that helps leaders make decisions.**
+**_Transforming the current U.S. import 2000–2023 cluttered visual into a compelling narrative that helps leaders make decisions.**
 
 ---
 
