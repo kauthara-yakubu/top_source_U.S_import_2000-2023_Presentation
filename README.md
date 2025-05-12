@@ -24,7 +24,7 @@ The current chart is not consult-presentation ready:
 - It doesn’t tell a story — it just dumps data.  
 - It's hard to tell any differences in the bars.
 
-![The Problem](/assets/images/old_US_import_200_2023_chart.png)
+![The Problem](/assets/images/old_US_import_2000_2023_chart.png)
 
 ---
 
